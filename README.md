@@ -1,24 +1,5 @@
 # Geeker-Admin
 
-### 介绍 📖
-
-Geeker-Admin 一款基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的后台管理框架，使用目前最新技术栈开发。项目提供强大的 [ProTable](https://juejin.cn/post/7166068828202336263) 组件，在一定程度上节省您的开发效率。另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。
-
-### 在线预览 👀
-
-- Link：https://admin.spicyboy.cn
-
-### 代码仓库 ⭐
-
-- Gitee：https://gitee.com/laramie/Geeker-Admin
-- GitHub：https://github.com/HalseySpicy/Geeker-Admin
-
-### 项目文档 📚
-
-- 项目更新日志：[CHANGELOG.md](./CHANGELOG.md)
-
-- 项目文档地址（持续更新中）：https://docs.spicyboy.cn
-
 ### 项目功能 🔨
 
 - 使用 Vue3.2 + TypeScript 开发，单文件组件**＜ script setup ＞**
@@ -93,30 +74,6 @@ npm run lint:stylelint
 npm run commit
 ```
 
-### 项目截图 📷
-
-- 登录页：
-
-![login_light](https://i.imgtg.com/2023/01/16/QPIxP.png)
-
-![login_dark](https://i.imgtg.com/2023/01/16/QP901.png)
-
-- 首页：
-
-![home_light](https://i.imgtg.com/2023/01/16/QPjwI.png)
-
-![home_dark](https://i.imgtg.com/2023/01/16/QP61D.png)
-
-- 表格页：
-
-![table_light](https://i.imgtg.com/2023/01/16/QPlKG.png)
-
-![table_dark](https://i.imgtg.com/2023/01/16/QPX86.png)
-
-- 数据大屏：
-
-![dataScreen](https://i.imgtg.com/2023/01/16/QP8HF.png)
-
 ### 文件资源目录 📚
 
 ```text
@@ -169,37 +126,9 @@ Geeker-Admin
 └─ vite.config.ts         # vite 全局配置文件
 ```
 
-### 浏览器支持 🌎
-
-- 本地开发推荐使用 Chrome 最新版浏览器 [Download](https://www.google.com/intl/zh-CN/chrome/)。
-- 生产环境支持现代浏览器，不在支持 IE 浏览器，更多浏览器可以查看 [Can I Use Es Module](https://caniuse.com/?search=ESModule)。
-
-| ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) | ![Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png) |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-|                                                               not support                                                               |                                        last 2 versions                                        |                                            last 2 versions                                             |                                           last 2 versions                                           |                                           last 2 versions                                           |
-
 ### 项目后台接口 🧩
 
 项目后台接口完全采用 Mock 数据，感谢以下 Mock 平台支持：
 
 - FastMock： https://www.fastmock.site
 - EasyMock：https://mock.mengxuegu.com
-
-### 微信交流群 👨‍👨‍👦‍👦
-
-微信一群、二群已满，三群已超过 200 人，需要加微信好友，拉大家进群 🤪
-
-|                          微信群二维码                          |
-| :------------------------------------------------------------: |
-| <img src="https://i.imgtg.com/2023/01/16/QRbJL.png" width=170> |
-
-### 捐赠 🍵
-
-如果你正在使用这个项目或者喜欢这个项目的，可以通过以下方式支持我：
-
-- Star、Fork、Watch 一键三连 🚀
-- 通过微信、支付宝一次性捐款 ❤
-
-|                                        微信                                        |                                       支付宝                                       |
-| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| <img src="https://i.imgtg.com/2023/01/16/QRzBX.png" alt="Alipay QRcode" width=170> | <img src="https://i.imgtg.com/2023/01/16/QRFZt.png" alt="Wechat QRcode" width=170> |
