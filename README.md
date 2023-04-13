@@ -1,5 +1,7 @@
 # Geeker-Admin
 
+[![ppvFthj.png](https://s1.ax1x.com/2023/04/13/ppvFthj.png)](https://imgse.com/i/ppvFthj)
+
 ### 项目功能 🔨
 
 - 使用 Vue3.2 + TypeScript 开发，单文件组件**＜ script setup ＞**
